@@ -1,0 +1,17 @@
+[
+  {
+    "name": "alqaedeh",
+    "email": "chatgpt@gmail.com",
+    "hashedPassword": "$2b$12$9QQgpJ1GdoiXduMKbCH0z.oLxwnjaz03JdyFCwxKLUGxFX60QsGUS"
+  },
+  {
+    "name": "Naser",
+    "email": "kossher@email.com",
+    "hashedPassword": "$2b$12$QmRvig7r0n1xiNL8y6ZYpeH7JPNXitvEbSA6bYu4fKLvQHSvEatlK"
+  },
+  {
+    "name": "Hoseinn",
+    "email": "chatgpt123@gmail.com",
+    "hashedPassword": "$2b$12$6SlMkErTMFWo9DIF8tcBaeMvKiV5KzoN1cdkI4iAs4AeOkrHAYh92"
+  }
+]

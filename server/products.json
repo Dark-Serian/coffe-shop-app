@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "name":"اسپرسو دبل",
+        "price":180000,
+        "image":"./src/products/dubble_ispurso.jpg"
+    },
+    {
+        "id":2,
+        "name":"قهوه ساده",
+        "price":100000,
+        "image":"./src/products/coffe.jpg"
+    },
+    {
+        "id":3,
+        "name":"چای",
+        "price":80000,
+        "image":"./src/products/tea.jpg"
+    },
+    {
+        "id":4,
+        "name":"کافه لاته",
+        "price":220000,
+        "image":"./src/products/late-coffe.jpg"
+    },
+    {
+        "id":5,
+        "name":"ماکیاتو",
+        "price":245000,
+        "image":"./src/products/maciato.jpg"
+    },
+    {
+        "id":6,
+        "name":"شربت آب پرتقال",
+        "price":210000,
+        "image":"./src/products/juice.jpg"
+    },
+    {
+        "id":7,
+        "name":"اسپرسو سینگل",
+        "price":150000,
+        "image":"./src/products/single_ispurso.jpeg"
+    },
+    {
+        "id":8,
+        "name":"آمریکانو",
+        "price":120000,
+        "image":"./src/products/americano.jpg"
+    },
+    {
+        "id":9,
+        "name":"آیس آمریکانو",
+        "price":180000,
+        "image":"./src/products/ice_americano.jpg"
+    },
+    {
+        "id":10,
+        "name":"آیس کارامل ماکیاتو",
+        "price":270000,
+        "image":"./src/products/ice_caramel_maciato.jpg"
+    },
+    {
+        "id":11,
+        "name":"چای هل و دارچین",
+        "price":160000,
+        "image":"./src/products/ptea.jpg"
+    },
+    {
+        "id":12,
+        "name":"دسر تیرامیسو",
+        "price":340000,
+        "image":"./src/products/desser.jpg"
+    }
+]
